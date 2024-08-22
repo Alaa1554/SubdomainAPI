@@ -1,0 +1,6 @@
+@SubdomainAPI_HostAddress = http://localhost:5133
+
+GET {{SubdomainAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
